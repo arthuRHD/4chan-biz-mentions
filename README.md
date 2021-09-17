@@ -1,7 +1,5 @@
 # 4chan-biz-mentions
 
-HF tracking your shitcoin, loser
-
 ## Install
 
 ```sh
@@ -26,5 +24,3 @@ bullish mentionned 3 times
 nft mentionned 3 times
 ankr mentionned 0 times
 ```
-
-[shithub](http://github.com/arthuRHD)
