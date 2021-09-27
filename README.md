@@ -24,3 +24,7 @@ bullish mentionned 3 times
 nft mentionned 3 times
 ankr mentionned 0 times
 ```
+
+## Retarded strategy
+
+Buy the least mentionned and sell the popular one 
