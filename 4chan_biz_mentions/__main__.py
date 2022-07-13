@@ -20,6 +20,6 @@ def find_mentions(word: str):
 
 if __name__ == '__main__':
     try:
-        [print(f"{k} mentionned {v} times") for k, v in sorted({str(arg): find_mentions(str(arg)) for arg in sys.argv[1:]}.items(), key=lambda item: item[1], reverse=True)]
+        [print(f"{k} mentioned {v} times") for k, v in sorted({str(arg): find_mentions(str(arg)) for arg in sys.argv[1:]}.items(), key=lambda item: item[1], reverse=True)]
     except IndexError:
         print("No words were provided as arguments")
