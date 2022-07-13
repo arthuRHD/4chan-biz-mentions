@@ -10,19 +10,19 @@ pip install 4chan-biz-mentions
 
 ```sh
 > python3 -m 4chan_biz_mentions moon eth avax ada sol btc ankr algo fud bullish scam pump nft
-sol mentionned 44 times
-eth mentionned 39 times
-pump mentionned 22 times
-scam mentionned 19 times
-moon mentionned 12 times
-fud mentionned 8 times
-ada mentionned 7 times
-avax mentionned 6 times
-btc mentionned 5 times
-algo mentionned 3 times
-bullish mentionned 3 times
-nft mentionned 3 times
-ankr mentionned 0 times
+sol mentioned 44 times
+eth mentioned 39 times
+pump mentioned 22 times
+scam mentioned 19 times
+moon mentioned 12 times
+fud mentioned 8 times
+ada mentioned 7 times
+avax mentioned 6 times
+btc mentioned 5 times
+algo mentioned 3 times
+bullish mentioned 3 times
+nft mentioned 3 times
+ankr mentioned 0 times
 ```
 
 ## Retarded strategy
