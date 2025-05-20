@@ -25,6 +25,6 @@ nft mentioned 3 times
 ankr mentioned 0 times
 ```
 
-## Retarded strategy
+## Proven strategy
 
 Buy the least mentionned and sell the popular one 
